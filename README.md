@@ -1,8 +1,31 @@
-# Example Package
+# VaR - Historical Simulation
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+          __                            
+         / /_  _____   _   ______ ______
+        / __ \/ ___/  | | / / __ `/ ___/
+       / / / (__  )   | |/ / /_/ / /    
+      /_/ /_/____/____|___/\__,_/_/     
+                /_____/                 
 
-Try opening this file in github to get a feel of how a markdown file is rendered
-in github.
+### The idea of this package is to implement a simple historical var calculation
+given some set of inputs - TICKER, lookback period, var holding period, confidence level.
+
+## Table of Contents
+- [Quick start](#quick-start)
+- [Examples](#examples)
+- [Author](#author)
+- [Inspiration and background](#inspiration-and-background)
+- [Copyright and license](#copyright-and-license)
+
+## Quick start
+### Instalation:
+
+### General Guidance
+
+## Examples
+
+## Author
+
+## Inspiration and background
+
+## Copyright and license
